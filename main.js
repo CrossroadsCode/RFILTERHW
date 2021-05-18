@@ -14,8 +14,8 @@ video.hide();
   
 }
 
-function draw() {}
-image(video, 0,0,300,300);
+function draw() {
+image(video, 0,0,300,300);}
 function takesSnapshot() {
 
 save('picture1.png');
