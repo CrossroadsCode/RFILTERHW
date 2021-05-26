@@ -1,5 +1,5 @@
 function preload() {
-clownnose=loadImage('https://i.postimg.cc/X7FMgkp4/clown.png');
+clownnose=loadImage('https://i.postimg.cc/nLMnKPZF/moustache-PNG38.png');
 
 
 }
@@ -21,13 +21,13 @@ function draw() {
   /*  fill(255, 0, 0);
     stroke(0, 0, 0);
     circle(nosex, nosey, 20);*/
-    image(clownnose,nosex-15,nosey-15,30,30);
+    image(mustache,nosex-15,nosey-15,30,30);
     
 }
 
 function takeSnapshot() {
 
-save('HahUrAclown.png');
+save('photo.png');
 
 }
 
