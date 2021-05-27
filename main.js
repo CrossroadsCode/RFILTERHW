@@ -1,5 +1,5 @@
 function preload() {
-clownnose=loadImage('https://i.postimg.cc/nLMnKPZF/moustache-PNG38.png');
+mustache=loadImage('https://i.postimg.cc/nLMnKPZF/moustache-PNG38.png');
 
 
 }
@@ -27,7 +27,7 @@ function draw() {
 
 function takeSnapshot() {
 
-save('photo.png');
+save('pic.png');
 
 }
 
