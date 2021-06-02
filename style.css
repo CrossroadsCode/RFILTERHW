@@ -1,167 +1,57 @@
+.heading {
 
-
-h3 {
-
-font-size: 25px !important;
+font-size: 25px;
+width:100%;
+margin: 0px;
+box-shadow: 5px 5px 50px rgb(0, 0, 0);
 
 }
 
-.btn-success:hover {
+.heading_div {
 
-background-color: red;
+float: none;
+padding: 10px;
+border-radius: 20px;
+box-shadow: 5px 5px 50px black;
+background: darkred;
+
+}
+
+.heading_div2 {
+
+font-size: 20px;
+
+}
+
+.result_para_tag {
+
+box-shadow: 5px 5px 50px black;
+font-size: 20px;
+
+}
+
+.footer {
+
+position: fixed;
+bottom: 0;
+width: 100%;
+background-color: gray;
+line-height: 3;
+text-align: center;
 
 }
 
 canvas {
 
-animation-name:Example ;
-animation-duration: 4s;
-animation-iteration-count: infinite;
+border: 5px solid black;
+border-radius: 20%;
+box-shadow: 5px 5px 50px black;
+margin-top: 150px;
 
 }
 
-@keyframes Example {
+#norhead {
 
-from{box-shadow: 1px 1px 40px red;}
-to {box-shadow: 1px 1px 40px yellow;} 
-    
+background-color: darkred;
 
 }
-
-
-#tsn {
-
-
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
